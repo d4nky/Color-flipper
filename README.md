@@ -1,1 +1,1 @@
-https://fares-color-flipper.netlify.app
+https://fares-reviews-project.netlify.app
